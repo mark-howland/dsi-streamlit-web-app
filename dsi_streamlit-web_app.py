@@ -5,7 +5,7 @@ import joblib
 
 
 # load the model pipeline object
- model = joblib.load("model.joblib")
+model = joblib.load("model.joblib")
 
 # add title and instructions
 st.title("Purchase Prediction Model")
