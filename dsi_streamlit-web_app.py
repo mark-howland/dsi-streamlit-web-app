@@ -1,5 +1,5 @@
 # imports
-import streamlit and st
+import streamlit as st
 import pandas as pd
 import joblib 
 
